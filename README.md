@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header" />
 
 <div align="center">
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=isj_prodreamer"/>
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=harvard1636"/>
   <h1><b>kim seongjoong</b></h1>
   <img src="https://img.shields.io/badge/C-F39C12?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-E74C3C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
